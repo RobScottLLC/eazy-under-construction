@@ -32,7 +32,13 @@ First version
 
 ##Screenshots  
 ![screenshot-1](https://cloud.githubusercontent.com/assets/6818209/12076955/41f735e6-b18a-11e5-94c3-ec47fe8d68ab.png)
+The default page that is displayed. (can be changed)  
+
 ![screenshot-2](https://cloud.githubusercontent.com/assets/6818209/12076957/41f8d248-b18a-11e5-8969-304628e3e0e9.png)
+The editing screen with the default page selected.  
+
 ![screenshot-3](https://cloud.githubusercontent.com/assets/6818209/12076958/41f96366-b18a-11e5-8042-4146dcba82a1.png)
+The editing screen with the custom text option selected.  
+
 ![screenshot-4](https://cloud.githubusercontent.com/assets/6818209/12076956/41f87d66-b18a-11e5-89f8-b9e71ff7ebeb.png)
- 
+The editing screen with the custom HTML option selected.  
