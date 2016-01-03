@@ -31,6 +31,7 @@ First version
 
 
 ##Screenshots  
+![alt tag](https://ps.w.org/eazy-under-construction/assets/screenshot-1.png?rev=1268846 "Description goes here")
 [[https://ps.w.org/eazy-under-construction/assets/screenshot-1.png?rev=1268846]]  The default page that is displayed. (can be changed)
   
 (https://ps.w.org/eazy-under-construction/assets/screenshot-2.png?rev=1268846) **The editing screen with the default page selected.**  
