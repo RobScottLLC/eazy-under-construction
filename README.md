@@ -31,10 +31,10 @@ First version
 
 
 ##Screenshots 
-![The default page that is displayed. (can be changed)](https://ps.w.org/eazy-under-construction/assets/screenshot-1.png?rev=1268846) **The default page that is displayed. (can be changed)**  
+(https://ps.w.org/eazy-under-construction/assets/screenshot-1.png?rev=1268846) **The default page that is displayed. (can be changed)**  
   
-![The editing screen with the default page selected. ](https://ps.w.org/eazy-under-construction/assets/screenshot-2.png?rev=1268846) **The editing screen with the default page selected.**  
+(https://ps.w.org/eazy-under-construction/assets/screenshot-2.png?rev=1268846) **The editing screen with the default page selected.**  
   
-![The editing screen with the custom text option selected. ](https://ps.w.org/eazy-under-construction/assets/screenshot-3.png?rev=1268846) **The editing screen with the custom text option selected.**  
+(https://ps.w.org/eazy-under-construction/assets/screenshot-3.png?rev=1268846) **The editing screen with the custom text option selected.**  
   
-![The editing screen with the custom HTML option selected. ](https://ps.w.org/eazy-under-construction/assets/screenshot-4.png?rev=1268846) **The editing screen with the custom HTML option selected.**  
+(https://ps.w.org/eazy-under-construction/assets/screenshot-4.png?rev=1268846) **The editing screen with the custom HTML option selected.**  
