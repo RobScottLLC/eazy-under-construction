@@ -31,11 +31,4 @@ First version
 
 
 ##Screenshots  
-![alt tag](https://ps.w.org/eazy-under-construction/assets/screenshot-1.png?rev=1268846 "Description goes here")
-[[https://ps.w.org/eazy-under-construction/assets/screenshot-1.png?rev=1268846]]  The default page that is displayed. (can be changed)
-  
-(https://ps.w.org/eazy-under-construction/assets/screenshot-2.png?rev=1268846) **The editing screen with the default page selected.**  
-  
-(https://ps.w.org/eazy-under-construction/assets/screenshot-3.png?rev=1268846) **The editing screen with the custom text option selected.**  
-  
-(https://ps.w.org/eazy-under-construction/assets/screenshot-4.png?rev=1268846) **The editing screen with the custom HTML option selected.**  
+<img src="https://cloud.githubusercontent.com/assets/6818209/12076955/41f735e6-b18a-11e5-94c3-ec47fe8d68ab.png" width="23%"></img> <img src="https://cloud.githubusercontent.com/assets/6818209/12076957/41f8d248-b18a-11e5-8969-304628e3e0e9.png" width="23%"></img> <img src="https://cloud.githubusercontent.com/assets/6818209/12076958/41f96366-b18a-11e5-8042-4146dcba82a1.png" width="23%"></img> <img src="https://cloud.githubusercontent.com/assets/6818209/12076956/41f87d66-b18a-11e5-89f8-b9e71ff7ebeb.png" width="23%"></img> 
