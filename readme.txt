@@ -2,7 +2,7 @@
 Contributors: r0bsc0tt
 Tags: construction, under construction, private, preview, security, coming soon
 Requires at least: 2.7
-Tested up to: 4.2.4
+Tested up to: 4.5
 Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
